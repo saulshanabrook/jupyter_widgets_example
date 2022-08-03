@@ -2,8 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+_build
 # C extensions
+jupyter_execute
 *.so
 
 # Distribution / packaging
