@@ -1,0 +1,5 @@
+{
+  "load_extensions": {
+    "python_package_name/extension": true
+  }
+}
